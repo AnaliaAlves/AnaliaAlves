@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ##
 
 <div  align="center">
-	<a href="https://beacons.ai/AnaliaAlves" align="center">
-	<img height="180em" src="http://github-readme-stats.vercel.app/api?username=AnaliaAlves&show_icons=true&theme=cobalt&include_commits=true&count_private=true"/_>
-	<img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=AnaliaAlves&layout=compact&langs_count=16&theme=cobalt"/_>
+	<a href="https://beacons.ai/AnaliaAlves">
+	<img height="160em" src="http://github-readme-stats.vercel.app/api?username=AnaliaAlves&show_icons=true&theme=cobalt&include_commits=true&count_private=true"/_>
+	<img height="160em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=AnaliaAlves&layout=compact&langs_count=16&theme=cobalt"/_>
 </div>
 
 ##
