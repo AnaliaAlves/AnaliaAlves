@@ -1,5 +1,7 @@
 ### Olá! Eu Sou a Anália Alves 
 
+Apaixonado(a) por programação e aprendizado contínuo, estou explorando o universo da tecnologia com projetos que vão desde a análise de dados em Python, Sempre em busca de novos desafios e oportunidades de crescimento, meu foco é transformar ideias em soluções práticas e inovadoras.
+
 <!--
 **AnaliaAlves/AnaliaAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
