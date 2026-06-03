@@ -1,6 +1,11 @@
-### Olá! Eu Sou a Anália Alves 
+### Olá! Eu Sou a Celyna Anália
 
-🌙 Desenvolvedora de jogos em formação, apaixonada por criar mundos aconchegantes, aventuras pixeladas e experiências memoráveis. Atualmente estudo Unity, C# e Game Design, buscando transformar criatividade e imaginação em jogos que contem histórias e despertem emoções.
+🎮 Desenvolvedora de Jogos em Formação | Aspiring Game Developer
+
+Apaixonada por criar experiências interativas, mundos acolhedores e aventuras pixeladas. Atualmente desenvolvo projetos com Unity e C#, explorando Game Design, programação e narrativa para transformar ideias em jogos que conectam pessoas através da criatividade e da imaginação.
+
+💜 Unity • C# • Game Design • Pixel Art
+
 
 
 <!--
