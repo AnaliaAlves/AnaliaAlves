@@ -1,6 +1,7 @@
 ### Olá! Eu Sou a Anália Alves 
 
-Apaixonado(a) por programação e aprendizado contínuo, estou explorando o universo da tecnologia com projetos que vão desde a análise de dados em Python, Sempre em busca de novos desafios e oportunidades de crescimento, meu foco é transformar ideias em soluções práticas e inovadoras.
+🌙 Desenvolvedora de jogos em formação, apaixonada por criar mundos aconchegantes, aventuras pixeladas e experiências memoráveis. Atualmente estudo Unity, C# e Game Design, buscando transformar criatividade e imaginação em jogos que contem histórias e despertem emoções.
+
 
 <!--
 **AnaliaAlves/AnaliaAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
