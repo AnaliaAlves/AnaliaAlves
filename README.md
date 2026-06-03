@@ -6,6 +6,24 @@ Apaixonada por criar experiências interativas, mundos acolhedores e aventuras p
 
 💜 Unity • C# • Game Design • Pixel Art
 
+🎮 Projetos de Jogos
+Plataforma 2D
+Pixel Art
+Topdown
+
+📊 Projetos de Dados
+Alura Store
+Dashboards Tableau
+Visualização de Dados com Python
+
+🌱 Atualmente Aprendendo
+Desenvolvimento de Jogos na Unity
+Programação C#
+Animação 2D
+Design de Mecânicas
+
+💜
+
 
 
 <!--
